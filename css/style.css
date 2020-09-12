@@ -15,7 +15,7 @@ h2 {
 
 .completed {
   font-family: 12px;
-  backgound: #ccc;
+  back : #ccc;
   text-decoration: underline;
 }
 
